@@ -1,0 +1,15 @@
+RegAggitate (old name) RegAggregate
+ 
+A region focused news aggregator application
+
+Write in: Ruby, Crystal, CSS
+
+Example:
+
+🇺🇦 Ukraine Mode (what inspired this project: a lack of a centralized/decentralized easy-access network on news regarding Ukraine)
+Will only aggregate news from/about Ukraine, based on preferences. Additionally, sites can be omitted from the list.
+
+This project is merely a portal. There are no trackers, advertisements, or popups until you click on one. Notifications are optional.
+
+This project is designed to promote and spread the coverage of local news. Regional news is also allowed, but can be omitted.
+
